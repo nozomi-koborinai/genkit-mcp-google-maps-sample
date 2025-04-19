@@ -4,6 +4,10 @@ A sample project that integrates Google Maps API with Genkit. Access Google Maps
 
 [Google Maps MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)
 
+<img width="1709" alt="tools" src="https://github.com/user-attachments/assets/9e091375-5f06-4c79-bf78-02904e6c1a70" />
+
+<img width="1774" alt="dev-ui-trace" src="https://github.com/user-attachments/assets/f09a70af-5eb9-471d-ae75-afa7a61953d5" />
+
 ## Features
 
 This sample provides access to the following Google Maps features:
