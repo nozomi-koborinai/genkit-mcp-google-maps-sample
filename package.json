@@ -1,0 +1,24 @@
+{
+  "name": "test-genkit-mcp-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "genkit-cli": "^1.6.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@genkit-ai/googleai": "^1.6.2",
+    "firebase-functions": "^6.3.2",
+    "genkit": "^1.6.2",
+    "genkitx-mcp": "^1.6.2"
+  }
+}
